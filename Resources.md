@@ -9,29 +9,7 @@
 4. Gebruik het [Classlist object](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) om een css class aan een element toe te voegen of weg te halen.
 
 
-
-
-## Resources
-- Bekijk hier de lijst [User Interface Events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) die je in javascript kunt gebruiken.
-- Als je iets wil doen met scrollen, dan kun je het event 'scroll' gebruiken. Misschien kun je ook iets doen met de [Intersection observer](https://pawelgrzybek.com/the-intersection-observer-api-explained/)
-- Als een onderdeel van je pagina in beeld moet verschijnen na een click, dan kun je iets doen met [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView).
-
-
-
-
-
-
-## Resources
-- Gebruik verschillende [UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) om de functionaliteit mee te bedienen.
-
-- Met behulp van [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest) of [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) kan een [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) file worden geladen. Daarna kun je de HTML elementen aanmaken, de juiste content koppelen en aan de DOM toevoegen.
-
-- Hier staat een [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) voor het laden van JSON data en het aanmaken van HTMl elementen.
-
-- Bij het laden van externe data kan de server verschillende [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) doorgeven, die kun je gebruiken om feedback te tonen.
-
-
-## Events en UI coderen
+## Resources microinteracties
 
 Voor wat complexere micro-interacties waar verschillende states elkaar moeten opvolgen kun je aan het eind van een transition of animation weer iets laten gebeuren. Gebruik hiervoor in Javascript de:
 
@@ -42,6 +20,29 @@ Voor wat complexere micro-interacties waar verschillende states elkaar moeten op
 - Dit is een goede uitleg van [Drag & Drop](https://developer.mozilla.org/en-US/docs/Web/API/Document/drag_event). Handig voor Use case 3.
 
 - Met [QuerySelectAll ](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) kun je gebruiken om  meerdere elementen te selecteren. Handig voor de 4e use case.
+
+
+
+## Resources UI Events
+- Bekijk hier de lijst [User Interface Events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) die je in javascript kunt gebruiken.
+- Als je iets wil doen met scrollen, dan kun je het event 'scroll' gebruiken. Misschien kun je ook iets doen met de [Intersection observer](https://pawelgrzybek.com/the-intersection-observer-api-explained/)
+- Als een onderdeel van je pagina in beeld moet verschijnen na een click, dan kun je iets doen met [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView).
+
+
+
+
+
+
+## Resources API gebruiken om JSON te laden
+
+- Met behulp van [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest) of [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) kan een [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) file worden geladen. Daarna kun je de HTML elementen aanmaken, de juiste content koppelen en aan de DOM toevoegen.
+
+- Hier staat een [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) voor het laden van JSON data en het aanmaken van HTMl elementen.
+
+- Bij het laden van externe data kan de server verschillende [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) doorgeven, die kun je gebruiken om feedback te tonen.
+
+
+
 
 
 ## Interactie en User interface design
