@@ -33,7 +33,7 @@ Voor wat complexere micro-interacties waar verschillende states elkaar moeten op
 
 
 
-## Resources API gebruiken om JSON te laden
+## Resources REST API, JSON laden en gebruiken
 
 - Met behulp van [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest) of [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) kan een [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) file worden geladen. Daarna kun je de HTML elementen aanmaken, de juiste content koppelen en aan de DOM toevoegen.
 
